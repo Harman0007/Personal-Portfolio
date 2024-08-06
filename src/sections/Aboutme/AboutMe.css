@@ -1,0 +1,28 @@
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    background-color: transparent;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    margin-bottom: 10px; /* Reduced space between containers */
+  }
+  
+  h1, h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    color: #666;
+    max-width: 600px;
+  }
+  
